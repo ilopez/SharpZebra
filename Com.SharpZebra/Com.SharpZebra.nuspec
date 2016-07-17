@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SharpZebra</id>	
+    <version>0.91</version>
+    <title>Zebra ZPL/EPL Tools</title>
+    <authors>SharpZebra</authors>
+    <owners>SharpZebra</owners>
+    <licenseUrl>https://github.com/ilopez/SharpZebra/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/ilopez/SharpZebra</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SharpZebra is a .Net wrapper for the EPL2 and ZPL languages for communicating with the Zebra range of printers. </description>
+    <releaseNotes>New Build for Nuget</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Zebra Barcode</tags>
+  </metadata>
+</package>
